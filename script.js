@@ -18,7 +18,7 @@ const categories = [
     name: "Roupas",
     tag: "SEU ESTILO, SUA ESSÊNCIA",
     description: "Leveza e personalidade para vestir seus dias.",
-    image: "./img/roupas.webp",
+    image: "roupas.webp",
     alt: "Inspiração de moda com alfaiataria em tons naturais."
   },
   {
@@ -26,7 +26,7 @@ const categories = [
     name: "Bolsas",
     tag: "COMPANHEIRAS DO DIA A DIA",
     description: "O toque que acompanha cada momento.",
-    image: "./img/bolsas.webp",
+    image: "bolsas.webp",
     alt: "Bolsa em tom caramelo."
   },
   {
@@ -34,7 +34,7 @@ const categories = [
     name: "Acessórios",
     tag: "BELEZA NOS DETALHES",
     description: "Pequenos detalhes. Novas possibilidades.",
-    image: "./img/acessorios.webp",
+    image: "acessorios.webp",
     alt: "Acessórios dourados."
   },
   {
@@ -42,7 +42,7 @@ const categories = [
     name: "Moda feminina",
     tag: "PARA CADA VERSÃO DE VOCÊ",
     description: "Inspire-se e encontre sua forma de se expressar.",
-    image: "./img/moda-feminina.webp",
+    image: "moda-feminina.webp",
     alt: "Inspiração de moda feminina."
   }
 ];
