@@ -42,7 +42,7 @@ const categories = [
     name: "Moda feminina",
     tag: "PARA CADA VERSÃO DE VOCÊ",
     description: "Inspire-se e encontre sua forma de se expressar.",
-    image: "moda-feminina.webp",
+    image: "opera-editorial.webp",
     alt: "Inspiração de moda feminina."
   }
 ];
