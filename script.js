@@ -34,7 +34,7 @@ const categories = [
     name: "Acessórios",
     tag: "BELEZA NOS DETALHES",
     description: "Pequenos detalhes. Novas possibilidades.",
-    image: "acessorios.webp",
+    image: "acessorios2.webp",
     alt: "Acessórios dourados."
   },
   {
